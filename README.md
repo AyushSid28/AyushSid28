@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Backend+Engineer+%7C+AI+%26+Agentic+Systems;Building+Intelligent+Multi-Agent+Architectures;Shipping+Production-Grade+AI+Infrastructure" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&repeat=true&random=false&width=520&height=45&lines=Backend+Engineer;AI+%26+Agentic+Systems;Multi-Agent+Architectures;Production-Grade+AI+Infra" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -91,7 +91,7 @@ class Ayush:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushSid28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3584E4&icon_color=3584E4&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSid28&theme=tokyonight&hide_border=true&background=0d1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4&sideLabels=c9d1d9&dates=555555" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=AyushSid28&theme=tokyonight&hide_border=true&background=0d1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4&sideLabels=c9d1d9&dates=555555" />
 </div>
 
 <br/>
