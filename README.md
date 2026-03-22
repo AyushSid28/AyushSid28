@@ -21,7 +21,6 @@ class Ayush:
     focus     = ["AI & Agentic Systems", "GenAI", "Distributed Architectures"]
     stack     = ["Python", "TypeScript", "Node.js", "FastAPI", "LangGraph"]
     interests = ["Multi-Agent Orchestration", "RAG Pipelines", "Production ML"]
-    motto     = "Ship fast. Ship smart. Ship agents."
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSid28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook,html,css" width="320" />
@@ -89,7 +88,7 @@ class Ayush:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushSid28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3584E4&icon_color=3584E4&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushSid28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3584E4&icon_color=3584E4&text_color=c9d1d9" />
   &nbsp;&nbsp;
   <img height="180em" src="https://streak-stats.demolab.com/?user=AyushSid28&theme=tokyonight&hide_border=true&background=0d1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4&sideLabels=c9d1d9&dates=555555" />
 </div>
