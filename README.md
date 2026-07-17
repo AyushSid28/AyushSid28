@@ -27,9 +27,8 @@ class Ayush:
 
 - Architecting **multi-agent systems** with LangGraph, CrewAI & custom orchestrators
 - Building **production AI pipelines** — RAG, NER, vector search, feedback loops
-- Shipping **50+ projects** across AI, backend, and full-stack
 - Deep in **Python, FastAPI, Node.js** and cloud-native tooling
-- Currently building **[Vortex](https://github.com/AyushSid28/Vortex)** — an agentic workflow engine
+
 
 <br clear="both"/>
 
